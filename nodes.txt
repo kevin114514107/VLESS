@@ -1,0 +1,3 @@
+vless://b1a48497-e633-4bf4-a1b3-0f05d2e09da7@cf.090227.xyz:443?encryption=none&security=tls&type=ws&host=j.zknqy.xyz&path=/&udp=1#新加坡高速独享
+vless://b5ed0fdb-0d76-42d0-bca1-8086dd0811df@104.16.125.85:8880?encryption=none&security=none&type=ws&host=bitter-bread-7693.ginlwbtv36.workers.dev&path=/&udp=1#美国直连独享
+vless://d2855d1b-e5c4-4d6e-8e8c-7d94736f5879@cf-cname.xingpingcn.top:443?encryption=none&security=tls&type=ws&host=n.zknqt.xyz&path=/&udp=1#日本高速独享
